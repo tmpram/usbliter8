@@ -9,4 +9,7 @@ usbliter8 builds for extra boards
 cmake -S . -B build -DPICO_BOARD=seeed_xiao_rp2350       -DPICO_SDK_PATH=$PICO_SDK_PATH       -DPICO_TOOLCHAIN_PATH=$PICO_TOOLCHAIN_PATH
 cmake --build build
 ```
+**Wiring**  
+![Alt text](Xiao%20RP2350/Xiao%20RP2350_GPIO4_5.jpg/ "This is the hover title")
+
 
