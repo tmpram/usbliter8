@@ -1,6 +1,7 @@
 # usbliter8
+(it is not working for Xiao RP2350)
 usbliter8 builds for extra boards  
-**Xiao RP2350**  (it is not working)
+**Xiao RP2350**  
 **Folder contents:**  
 - .uf2 ready to be flashed to the board
 * .cmake configuration file for usbliter8 source code build
